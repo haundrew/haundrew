@@ -1,6 +1,6 @@
- # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGw0aDZzbTZ1czJmM2R5Nzlqeml5ZzY0NjR1ZnpyMmJ1dHc4cmlkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="100"/> Bienvenid@ a mi GitHub Haundrew Dh <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlocHZrd2xna3RjNHY0aTQ4Znp0bGF5YWJhcWlyM2lnanpwYmtrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vACLXgansDXwHzzI/giphy.webp" width="100">
+ # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGw0aDZzbTZ1czJmM2R5Nzlqeml5ZzY0NjR1ZnpyMmJ1dHc4cmlkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="100"/> Bienvenid@ a mi GitHub Haundrew Dh 
 
-Recien graduado de la universidad, con aprendizaje constante en las nuevas tecnologias y en la programación web.
+Recien graduado de la universidad, con aprendizaje constante en las nuevas tecnologias y en la programación web, compartiendo todo lo que voy aprendiendo por medio de mi repositorio perosonal, asi que bienvenid@ 
 
 ![Banner de haundrew](banner_principal.png)
 
