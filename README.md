@@ -1,8 +1,8 @@
  # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGw0aDZzbTZ1czJmM2R5Nzlqeml5ZzY0NjR1ZnpyMmJ1dHc4cmlkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="100"/> Bienvenid@ a mi GitHub Haundrew Dh 
 
-Recien graduado de la universidad, con aprendizaje constante en las nuevas tecnologias y en la programación web, compartiendo todo lo que voy aprendiendo por medio de mi repositorio perosonal, asi que bienvenid@ 
+Recien graduado de la universidad, con aprendizaje constante en las nuevas tecnologias y en la programación web, compartiendo todo lo que voy aprendiendo por medio de mi repositorio personal, asi que bienvenid@ 
 
-![Banner de haundrew](banner_principal.png)
+![Banner de haundrew](channels4_banner.jpg)
 
 ### Lenguajes de programación
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,10 +39,7 @@ Recien graduado de la universidad, con aprendizaje constante en las nuevas tecno
 
 
 
-## Visita mi Canal de Youtube y mis Redes Sociales
-
-![Banner de haundrew](channels4_banner.jpg)
-
+### Visita mi Canal de Youtube y mis Redes Sociales
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@HaunDrew)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@haundrew)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/haundrew_dh/)
