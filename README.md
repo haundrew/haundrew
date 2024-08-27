@@ -45,7 +45,7 @@ Recien graduado de la universidad, con aprendizaje constante en las nuevas tecno
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/haundrew_dh/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andres-diaz-hernandez-a55420170/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haundrew&layout=compact)
 <!--
 **haundrew/haundrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
